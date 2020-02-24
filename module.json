@@ -1,0 +1,8 @@
+{
+    "alias": "webed-caching",
+    "name": "Caching",
+    "author": "Tedozi Manson - <a href=\"https://github.com/duyphan2502\">https://github.com/duyphan2502</a>",
+    "description": "Caching management package.",
+    "namespace": "WebEd\\Base\\Caching",
+    "autoload": "psr-4"
+}
